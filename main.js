@@ -1,4 +1,4 @@
-function tocSsom (idElementoAudio) {
+function tocaSsom (idElementoAudio) {
     document.querySelector (idElementoAudio). paly();
 }
 
